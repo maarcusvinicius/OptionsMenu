@@ -6,4 +6,4 @@ Um programa Python que lê dois valores e mostra um menu na tela:
 [ 5 ] sair do programa
 O programa realiza a operação solicitada em cada caso.
 
--->utilizei "while" "if" "else" "from time import sleep" e algumas cores para terminal<--
+-->utilizei "while", "if", "else", "from time import sleep" e algumas cores para terminal<--
